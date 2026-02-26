@@ -208,7 +208,7 @@ Mencoba kombinasi hyperparameter secara acak dari distribusi yang ditentukan:
 
 - **Kelebihan:** Lebih efisien — seringkali menemukan solusi baik dengan iterasi lebih sedikit
 - **Kekurangan:** Tidak menjamin menemukan kombinasi optimal
-- Bergberg & Bengio (2012) membuktikan random search lebih efisien dari grid search
+- Bergstra & Bengio (2012) membuktikan random search lebih efisien dari grid search
 
 ### 5.3 Bayesian Optimization
 
