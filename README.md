@@ -13,8 +13,8 @@
 
 ## Rencana Pembelajaran Semester (RPS)
 
-| Minggu ke- | Kemampuan Akhir yang Direncanakan (KAD) | Materi Pembelajaran | Modalitas | Bentuk | Strategi & Metode Pembelajaran | Estimasi Waktu (Menit) | Pengalaman Belajar Mahasiswa | Asesmen |
-|------------|------------------------------------------|---------------------|-----------|--------|--------------------------------|-------------------------|------------------------------|---------|
+| Minggu ke | KAD | Materi Pembelajaran | Modalitas | Bentuk | Strategi & Metode | Estimasi Waktu (Menit) | Pengalaman Belajar Mahasiswa | Asesmen |
+|-----------|-----|---------------------|-----------|--------|-------------------|-------------------------|------------------------------|---------|
 | 1 | Memahami konsep Big Data dan relevansinya dalam akuntansi digital | Pengenalan Big Data & Akuntansi Digital | Tatap muka + Colab | Kuliah interaktif | Ceramah interaktif, diskusi | 150 | Mahasiswa mengenali peran Big Data dalam akuntansi, setup Colab | Kuis konsep Big Data |
 | 2 | Menguasai dasar Python untuk analisis akuntansi | Google Colab & Python Dasar | Tatap muka + praktik | Demo + hands-on | Demonstrasi coding, latihan mandiri | 150 | Mahasiswa menulis kode Python sederhana untuk operasi akuntansi | Tugas coding dasar |
 | 3 | Mampu mengimpor dan membersihkan dataset akuntansi | Dataset Akuntansi (CSV, Excel, Kaggle) | Tatap muka + praktik | Praktikum | Eksplorasi dataset, cleaning data | 150 | Mahasiswa mengimpor dataset akuntansi ke Colab, melakukan data cleaning | Laporan praktikum |
@@ -34,4 +34,4 @@
 - CLO ditulis di bagian atas agar jelas keterkaitan dengan KAD tiap minggu.  
 - Asesmen per minggu bervariasi: kuis, tugas coding, laporan praktikum, proyek mini, presentasi.  
 - Estimasi waktu 150 menit per minggu (3 SKS).  
-- Format tabel sudah sesuai Markdown GitHub sehingga akan tampil rapi.  
+- Format tabel sudah disederhanakan agar tampil rapi di GitHub tanpa terpotong.
